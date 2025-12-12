@@ -1,0 +1,7 @@
+school_id,school_name,perc_econ_disadv,student_teacher_ratio,perc_ell,enrollment,ESA_score,FCA_score,ESA_class,FCA_class
+101,Akins HS,0.72,16.5,0.23,2100,59,80,2,3
+102,Bowie HS,0.18,15.1,0.07,2700,75,90,3,4
+103,Eastside ECHS,0.91,13.2,0.32,900,40,55,1,2
+104,LBJ HS,0.84,17.8,0.28,1400,48,62,1,2
+105,Anderson HS,0.15,14.9,0.04,2300,82,95,4,4
+106,Travis HS,0.88,16.0,0.31,1200,45,50,1,1
