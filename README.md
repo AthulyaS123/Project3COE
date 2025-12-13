@@ -35,7 +35,7 @@ How to Run the Project (Correct Order)
 
 Run notebooks in the order below to reproduce all results.
 
-1️⃣ Text-Based Model
+1️. Text-Based Model
 Notebook:
 notebooks/text_model.ipynb
 Purpose:
@@ -48,7 +48,7 @@ Confusion matrix and classification report
 Output:
 data/processed/text_predictions.csv
 
-2️⃣ Tabular Model
+2️. Tabular Model
 Notebook:
 notebooks/tabular_model.ipynb
 Data sources:
@@ -64,7 +64,7 @@ Regression and classification evaluation
 Output:
 data/processed/tabular_features.csv
 
-3️⃣ Multimodal Fusion Model
+3️. Multimodal Fusion Model
 Notebook:
 notebooks/fusion_model.ipynb
 Purpose:
