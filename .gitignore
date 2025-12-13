@@ -1,2 +1,21 @@
+# ===== ML artifacts =====
 models/
-models/**/*.pt
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.h5
+*.ckpt
+
+# ===== Outputs =====
+results/
+outputs/
+checkpoints/
+
+# ===== Data =====
+data/raw/
+data/processed/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
