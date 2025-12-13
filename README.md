@@ -2,8 +2,6 @@
 
 Zoom Link: https://utexas.zoom.us/rec/share/cv6bBNnw6ISvSLYXshPD5awu7KpRXORLgCg-hqAKQwKmOK5U1FGAGfMtA0DBo5M.kXjTNjOid4BrXNrK?startTime=1765627275000
 
-Google Drive with paper and updated propsoal: https://drive.google.com/drive/folders/11syNKKgnBtX8tGwqmVwn6bIEAea1oNDK?usp=drive_link
-
 Multimodal Equity Risk Scoring for Austin ISD High Schools
 
 This project develops a multimodal machine learning pipeline to assess educational equity risk for Austin ISD high schools by combining textual descriptions and tabular school-level indicators. The system demonstrates how integrating qualitative and quantitative data improves equity-focused risk assessment compared to single-modality models.
